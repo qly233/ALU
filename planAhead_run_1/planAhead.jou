@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Sun Apr 24 20:31:24 2022
+# Process ID: 18792
+# Log file: D:/zuchengyuanli/ALU/planAhead_run_1/planAhead.log
+# Journal file: D:/zuchengyuanli/ALU/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source D:/zuchengyuanli/ALU/pa.fromNetlist.tcl
